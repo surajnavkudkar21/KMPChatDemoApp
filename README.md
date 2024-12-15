@@ -6,7 +6,7 @@ This App is a chat demo app
 
   <img width="1728" alt="Screenshot 2024-12-15 at 4 00 01 PM" src="https://github.com/user-attachments/assets/a528d2da-0004-4da5-a880-b073fed0cd37" />
 
-
+</br>
 <b>iOS App :</b>
  
   <img width="526" alt="Screenshot 2024-12-15 at 4 18 30 PM" src="https://github.com/user-attachments/assets/56f9d89b-be4f-4946-b107-1bbf726bdfa1" />
