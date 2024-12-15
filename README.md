@@ -2,6 +2,10 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Web.
 
 This App is a chat demo app
 
+Web Page
+
+<img width="1728" alt="Screenshot 2024-12-15 at 4 00 01 PM" src="https://github.com/user-attachments/assets/a528d2da-0004-4da5-a880-b073fed0cd37" />
+
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - `commonMain` is for code that’s common for all targets.
